@@ -1,6 +1,6 @@
 # **Dimensium**
 
-This is [Dimensium], broadly speaking, this is the management organisation for a series of projects, including [Project Freecraft] (and soon the name will be changed into Dimensium). We have our [coding standards], our [expression library], and a lot of things. The organisation is created in 2023, and changed many names to make it doesn't conflict to any existing accounts, but having a name similar to Minecraft isn't a good thing and let people think our main project as a copy of Minecraft, so we determined to change all existing "freecraft" into "dimensium". About our discussion of this change, please join in this discussion and view [this link](https://github.com/orgs/dimensium/discussions/1).
+This is [Dimensium], broadly speaking, this is the management organisation for a series of projects, including [Project Freecraft] (and soon the name will be changed into Dimensium). We have our [coding standards], our [expression library], and a lot of things. The organisation is created in 2023, and changed the name for many times to make it doesn't conflict to any existing accounts, but having a name similar to Minecraft isn't a good thing and let people think our main project as a copy of Minecraft, so we determined to change all existing "freecraft" into "dimensium". About our discussion of this change, please join in this discussion and view [this link](https://github.com/orgs/dimensium/discussions/1).
 
 ## Our Projects
 
